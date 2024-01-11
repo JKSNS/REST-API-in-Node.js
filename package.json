@@ -1,0 +1,14 @@
+{
+  "name": "lab-4a-jackyroo42",
+  "version": "1.0.0",
+  "description": "This README provides instructions for obtaining the necessary authentication cookie, running the unit tests, and understanding the structure of the testing files for the API endpoints.",
+  "main": "api.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
